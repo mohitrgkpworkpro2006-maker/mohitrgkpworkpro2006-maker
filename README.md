@@ -12,4 +12,4 @@ I'm always eager to gain hands-on experience through challenging projects, colla
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀
+Thanks for stopping by! My time in GitHub has only begun and keep yourselves well and truly interested for my upcoming repositories. 
