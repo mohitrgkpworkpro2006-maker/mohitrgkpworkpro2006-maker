@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello there, welcome to my Profile! 👋
 
-<!--
-**mohitrgkpworkpro2006-maker/mohitrgkpworkpro2006-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mohit Pillai**, a Computer Science (Artificial Intelligence) undergraduate with a passion for building innovative software and exploring the practical applications of AI.
 
-Here are some ideas to get you started:
+I'm currently pursuing a **B.Tech in Computer Science (Artificial Intelligence)** at **Mar Baselios College of Engineering and Technology, Thiruvananthapuram**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a strong interest in **software development**, **artificial intelligence**, and integrating AI into real-world applications. I enjoy developing projects in **Java**, **Python**, and **C**, and I'm continually expanding my technical skills.
+
+Recently, I've developed a keen interest in **backend development** and **automation workflows**, focusing on building efficient and scalable systems.
+
+I'm always eager to gain hands-on experience through challenging projects, collaborate with talented developers, and learn from experienced professionals. My goal is to build impactful software and establish a strong foundation for a career in the software engineering and AI industry.
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀
